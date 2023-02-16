@@ -1,5 +1,4 @@
 // your code here
-var btn=document.getElementById('button');
 function takeInput(event){
 	event.preventDefault(event);
 	var inputName=document.getElementById('name').value;
